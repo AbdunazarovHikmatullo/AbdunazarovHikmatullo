@@ -37,6 +37,12 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdunazarovHikmatullo&theme=tokyo-night" alt="Activity Graph" />
+</p>
+
+
+
 
 ## 📫 Contact Me
 <p align="center">
