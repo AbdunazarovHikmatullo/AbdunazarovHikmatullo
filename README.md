@@ -3,12 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=200&section=header&text=Hi%2C%20I'm%20Hikmatullo!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<!-- Typing Animation -->
-<p align="center">
+
   <a href="https://github.com/Hikmatullo">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%2B+DevOps;4%2B+Years+in+Programming;Python+%7C+Django+%7C+JavaScript;React+%7C+Next.js;PostgreSQL+%7C+Redis+%7C+Docker" alt="Typing SVG" />
   </a>
-</p>
 
 ---
 
