@@ -21,6 +21,12 @@
 
 ---
 
+p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=bezhan2009&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="bezhan2009" />
+    </a>
+</p>
+
 ## 🛠 Tech Stack
 
 <p align="center">
